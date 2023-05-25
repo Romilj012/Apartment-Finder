@@ -1,3 +1,8 @@
+<video width="640" height="480" controls>
+  <source src="https://raw.githubusercontent.com/username/repository/master/path/to/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 # Apartment Finder iOS Firebase Application
 
 This repository contains the code for the Apartment Finder iOS Firebase Application, a powerful and user-friendly tool for finding apartments. The application offers various features and functionalities that enhance the apartment search experience. Below are the key highlights of the application:
@@ -70,7 +75,3 @@ Feel free to explore the repository and dive into the code to gain a deeper unde
 
 [![Video Preview](https://example.com/video_preview_thumbnail.jpg)](https://github.com/Romilj012/Apartment-Finder-iOS-Firebase-Application/blob/main/Final_Project_Jain_Romil_video.mp4)
 
-<video width="640" height="480" controls>
-  <source src="https://raw.githubusercontent.com/username/repository/master/path/to/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
