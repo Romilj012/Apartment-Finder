@@ -2,7 +2,7 @@
 //  StudentSignUpView.swift
 //  ApartmentFinder
 //
-//  Created by Hasnain Ahmed Shaikh on 5/6/23.
+//  Created by Romil Jain on 5/6/23.
 //
 
 import SwiftUI
