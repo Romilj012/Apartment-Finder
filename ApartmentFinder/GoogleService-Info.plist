@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>871519155453-d4ob835metvk7ng6k3gb8m8tlree909l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.871519155453-d4ob835metvk7ng6k3gb8m8tlree909l</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAS9nvpyONV9-4Y0jnWc4fTdp_9mJptoao</string>
+	<key>GCM_SENDER_ID</key>
+	<string>871519155453</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hasnain.ApartmentFinder</string>
+	<key>PROJECT_ID</key>
+	<string>apartmentfinder-c0370</string>
+	<key>STORAGE_BUCKET</key>
+	<string>apartmentfinder-c0370.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:871519155453:ios:e6b506d5dcc9b5d5cc3a94</string>
+</dict>
+</plist>

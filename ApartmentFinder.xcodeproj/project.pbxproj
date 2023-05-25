@@ -1,0 +1,500 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0B49932F29DB593B00C431AE /* StudentSignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B49932E29DB593B00C431AE /* StudentSignInView.swift */; };
+		0B49933129DB5C0300C431AE /* DisplayAllApartments.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B49933029DB5C0300C431AE /* DisplayAllApartments.swift */; };
+		0B49933329DB647400C431AE /* StudentHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B49933229DB647400C431AE /* StudentHome.swift */; };
+		0B7F297E2A05F75D00414AE5 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B7F297D2A05F75D00414AE5 /* MapView.swift */; };
+		0B7F29802A06416700414AE5 /* StudentSignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B7F297F2A06416700414AE5 /* StudentSignUpView.swift */; };
+		0BC1773529DB448E00D506A9 /* FirstScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BC1773429DB448E00D506A9 /* FirstScreen.swift */; };
+		9A28EF9629D608A2002B3F94 /* ApartmentFinderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A28EF9529D608A2002B3F94 /* ApartmentFinderApp.swift */; };
+		9A28EF9829D608A2002B3F94 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A28EF9729D608A2002B3F94 /* ContentView.swift */; };
+		9A28EF9A29D608A3002B3F94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A28EF9929D608A3002B3F94 /* Assets.xcassets */; };
+		9A28EF9D29D608A3002B3F94 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A28EF9C29D608A3002B3F94 /* Preview Assets.xcassets */; };
+		9A28EFA429D60EEA002B3F94 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9A28EFA329D60EEA002B3F94 /* GoogleService-Info.plist */; };
+		9A28EFA629D65A59002B3F94 /* AppViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A28EFA529D65A59002B3F94 /* AppViewModel.swift */; };
+		9A28EFA929D65B2C002B3F94 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A28EFA829D65B2C002B3F94 /* Home.swift */; };
+		9A28EFAB29D65B5C002B3F94 /* Main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A28EFAA29D65B5C002B3F94 /* Main.swift */; };
+		9A28EFAD29D65B99002B3F94 /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A28EFAC29D65B99002B3F94 /* SignInView.swift */; };
+		9A28EFAF29D65BD8002B3F94 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A28EFAE29D65BD8002B3F94 /* SignUpView.swift */; };
+		9A33ABD929D6900900E4A732 /* Apartment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A33ABD829D6900900E4A732 /* Apartment.swift */; };
+		9A33ABDB29D694FC00E4A732 /* DisplayApartment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A33ABDA29D694FC00E4A732 /* DisplayApartment.swift */; };
+		9A33ABDD29D6AC9D00E4A732 /* ApartmentDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A33ABDC29D6AC9D00E4A732 /* ApartmentDetailView.swift */; };
+		9A33ABE129D732B400E4A732 /* ApartmentEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A33ABE029D732B400E4A732 /* ApartmentEditView.swift */; };
+		9AFD44AC29E7DB94002B07BB /* Owner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AFD44AB29E7DB94002B07BB /* Owner.swift */; };
+		C3BFD0819FC361CA8203FE6C /* Pods_ApartmentFinder.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB18AD2E9D84BF0CFFC49E90 /* Pods_ApartmentFinder.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0B49932E29DB593B00C431AE /* StudentSignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentSignInView.swift; sourceTree = "<group>"; };
+		0B49933029DB5C0300C431AE /* DisplayAllApartments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayAllApartments.swift; sourceTree = "<group>"; };
+		0B49933229DB647400C431AE /* StudentHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentHome.swift; sourceTree = "<group>"; };
+		0B7F297D2A05F75D00414AE5 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		0B7F297F2A06416700414AE5 /* StudentSignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentSignUpView.swift; sourceTree = "<group>"; };
+		0BC1773429DB448E00D506A9 /* FirstScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstScreen.swift; sourceTree = "<group>"; };
+		2BBCAF322EC6DF9B3D320D84 /* Pods-ApartmentFinder.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ApartmentFinder.release.xcconfig"; path = "Target Support Files/Pods-ApartmentFinder/Pods-ApartmentFinder.release.xcconfig"; sourceTree = "<group>"; };
+		493B057893FD86F23FA1B42A /* Pods-ApartmentFinder.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ApartmentFinder.debug.xcconfig"; path = "Target Support Files/Pods-ApartmentFinder/Pods-ApartmentFinder.debug.xcconfig"; sourceTree = "<group>"; };
+		9A28EF9229D608A2002B3F94 /* ApartmentFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ApartmentFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A28EF9529D608A2002B3F94 /* ApartmentFinderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApartmentFinderApp.swift; sourceTree = "<group>"; };
+		9A28EF9729D608A2002B3F94 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		9A28EF9929D608A3002B3F94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9A28EF9C29D608A3002B3F94 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9A28EFA329D60EEA002B3F94 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		9A28EFA529D65A59002B3F94 /* AppViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppViewModel.swift; sourceTree = "<group>"; };
+		9A28EFA829D65B2C002B3F94 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		9A28EFAA29D65B5C002B3F94 /* Main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main.swift; sourceTree = "<group>"; };
+		9A28EFAC29D65B99002B3F94 /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
+		9A28EFAE29D65BD8002B3F94 /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		9A33ABD829D6900900E4A732 /* Apartment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apartment.swift; sourceTree = "<group>"; };
+		9A33ABDA29D694FC00E4A732 /* DisplayApartment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayApartment.swift; sourceTree = "<group>"; };
+		9A33ABDC29D6AC9D00E4A732 /* ApartmentDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApartmentDetailView.swift; sourceTree = "<group>"; };
+		9A33ABE029D732B400E4A732 /* ApartmentEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApartmentEditView.swift; sourceTree = "<group>"; };
+		9AFD44AB29E7DB94002B07BB /* Owner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Owner.swift; sourceTree = "<group>"; };
+		CB18AD2E9D84BF0CFFC49E90 /* Pods_ApartmentFinder.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ApartmentFinder.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9A28EF8F29D608A2002B3F94 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C3BFD0819FC361CA8203FE6C /* Pods_ApartmentFinder.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9A28EF8929D608A2002B3F94 = {
+			isa = PBXGroup;
+			children = (
+				9A28EF9429D608A2002B3F94 /* ApartmentFinder */,
+				9A28EF9329D608A2002B3F94 /* Products */,
+				FCDE5DD8DD3D388FBC3679BB /* Pods */,
+				CEB3A8EF164235645132D562 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		9A28EF9329D608A2002B3F94 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9A28EF9229D608A2002B3F94 /* ApartmentFinder.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9A28EF9429D608A2002B3F94 /* ApartmentFinder */ = {
+			isa = PBXGroup;
+			children = (
+				9A33ABD529D68FD600E4A732 /* Model */,
+				9A28EFA729D65B19002B3F94 /* View */,
+				9A28EFA329D60EEA002B3F94 /* GoogleService-Info.plist */,
+				9A28EF9529D608A2002B3F94 /* ApartmentFinderApp.swift */,
+				9A28EF9729D608A2002B3F94 /* ContentView.swift */,
+				9A28EFA529D65A59002B3F94 /* AppViewModel.swift */,
+				9A28EF9929D608A3002B3F94 /* Assets.xcassets */,
+				9A28EF9B29D608A3002B3F94 /* Preview Content */,
+			);
+			path = ApartmentFinder;
+			sourceTree = "<group>";
+		};
+		9A28EF9B29D608A3002B3F94 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				9A28EF9C29D608A3002B3F94 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9A28EFA729D65B19002B3F94 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				9A28EFA829D65B2C002B3F94 /* Home.swift */,
+				0B49933229DB647400C431AE /* StudentHome.swift */,
+				9A28EFAA29D65B5C002B3F94 /* Main.swift */,
+				9A28EFAC29D65B99002B3F94 /* SignInView.swift */,
+				9A28EFAE29D65BD8002B3F94 /* SignUpView.swift */,
+				9A33ABDA29D694FC00E4A732 /* DisplayApartment.swift */,
+				9A33ABDC29D6AC9D00E4A732 /* ApartmentDetailView.swift */,
+				9A33ABE029D732B400E4A732 /* ApartmentEditView.swift */,
+				0BC1773429DB448E00D506A9 /* FirstScreen.swift */,
+				0B49932E29DB593B00C431AE /* StudentSignInView.swift */,
+				0B49933029DB5C0300C431AE /* DisplayAllApartments.swift */,
+				0B7F297D2A05F75D00414AE5 /* MapView.swift */,
+				0B7F297F2A06416700414AE5 /* StudentSignUpView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		9A33ABD529D68FD600E4A732 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				9A33ABD829D6900900E4A732 /* Apartment.swift */,
+				9AFD44AB29E7DB94002B07BB /* Owner.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		CEB3A8EF164235645132D562 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CB18AD2E9D84BF0CFFC49E90 /* Pods_ApartmentFinder.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FCDE5DD8DD3D388FBC3679BB /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				493B057893FD86F23FA1B42A /* Pods-ApartmentFinder.debug.xcconfig */,
+				2BBCAF322EC6DF9B3D320D84 /* Pods-ApartmentFinder.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9A28EF9129D608A2002B3F94 /* ApartmentFinder */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9A28EFA029D608A3002B3F94 /* Build configuration list for PBXNativeTarget "ApartmentFinder" */;
+			buildPhases = (
+				B057A93C83FB1E1113A75935 /* [CP] Check Pods Manifest.lock */,
+				9A28EF8E29D608A2002B3F94 /* Sources */,
+				9A28EF8F29D608A2002B3F94 /* Frameworks */,
+				9A28EF9029D608A2002B3F94 /* Resources */,
+				5CEE4F848EED61E2FFC1137B /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = ApartmentFinder;
+			productName = ApartmentFinder;
+			productReference = 9A28EF9229D608A2002B3F94 /* ApartmentFinder.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9A28EF8A29D608A2002B3F94 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					9A28EF9129D608A2002B3F94 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+				};
+			};
+			buildConfigurationList = 9A28EF8D29D608A2002B3F94 /* Build configuration list for PBXProject "ApartmentFinder" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9A28EF8929D608A2002B3F94;
+			productRefGroup = 9A28EF9329D608A2002B3F94 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9A28EF9129D608A2002B3F94 /* ApartmentFinder */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9A28EF9029D608A2002B3F94 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9A28EF9D29D608A3002B3F94 /* Preview Assets.xcassets in Resources */,
+				9A28EF9A29D608A3002B3F94 /* Assets.xcassets in Resources */,
+				9A28EFA429D60EEA002B3F94 /* GoogleService-Info.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		5CEE4F848EED61E2FFC1137B /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ApartmentFinder/Pods-ApartmentFinder-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ApartmentFinder/Pods-ApartmentFinder-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ApartmentFinder/Pods-ApartmentFinder-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B057A93C83FB1E1113A75935 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ApartmentFinder-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9A28EF8E29D608A2002B3F94 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9A33ABDD29D6AC9D00E4A732 /* ApartmentDetailView.swift in Sources */,
+				9AFD44AC29E7DB94002B07BB /* Owner.swift in Sources */,
+				9A28EFAD29D65B99002B3F94 /* SignInView.swift in Sources */,
+				9A28EFAB29D65B5C002B3F94 /* Main.swift in Sources */,
+				0B7F29802A06416700414AE5 /* StudentSignUpView.swift in Sources */,
+				0B49932F29DB593B00C431AE /* StudentSignInView.swift in Sources */,
+				9A28EF9829D608A2002B3F94 /* ContentView.swift in Sources */,
+				9A28EFAF29D65BD8002B3F94 /* SignUpView.swift in Sources */,
+				9A28EF9629D608A2002B3F94 /* ApartmentFinderApp.swift in Sources */,
+				9A33ABE129D732B400E4A732 /* ApartmentEditView.swift in Sources */,
+				0B7F297E2A05F75D00414AE5 /* MapView.swift in Sources */,
+				9A28EFA929D65B2C002B3F94 /* Home.swift in Sources */,
+				9A33ABDB29D694FC00E4A732 /* DisplayApartment.swift in Sources */,
+				0BC1773529DB448E00D506A9 /* FirstScreen.swift in Sources */,
+				9A33ABD929D6900900E4A732 /* Apartment.swift in Sources */,
+				9A28EFA629D65A59002B3F94 /* AppViewModel.swift in Sources */,
+				0B49933329DB647400C431AE /* StudentHome.swift in Sources */,
+				0B49933129DB5C0300C431AE /* DisplayAllApartments.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		9A28EF9E29D608A3002B3F94 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9A28EF9F29D608A3002B3F94 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9A28EFA129D608A3002B3F94 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 493B057893FD86F23FA1B42A /* Pods-ApartmentFinder.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ApartmentFinder/Preview Content\"";
+				DEVELOPMENT_TEAM = 28NW3BRKY3;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hasnain.ApartmentFinder;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9A28EFA229D608A3002B3F94 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2BBCAF322EC6DF9B3D320D84 /* Pods-ApartmentFinder.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ApartmentFinder/Preview Content\"";
+				DEVELOPMENT_TEAM = 28NW3BRKY3;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hasnain.ApartmentFinder;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9A28EF8D29D608A2002B3F94 /* Build configuration list for PBXProject "ApartmentFinder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A28EF9E29D608A3002B3F94 /* Debug */,
+				9A28EF9F29D608A3002B3F94 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9A28EFA029D608A3002B3F94 /* Build configuration list for PBXNativeTarget "ApartmentFinder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A28EFA129D608A3002B3F94 /* Debug */,
+				9A28EFA229D608A3002B3F94 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9A28EF8A29D608A2002B3F94 /* Project object */;
+}
