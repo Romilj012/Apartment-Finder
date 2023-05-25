@@ -67,3 +67,6 @@ SU Apartment Finder aims to revolutionize the apartment rental experience, makin
  first-time renter or an experienced apartment hunter, this application is designed to streamline your search and deliver better results.
 
 Feel free to explore the repository and dive into the code to gain a deeper understanding of the application's implementation. Should you have any questions or feedback, please don't hesitate to reach out.
+
+[![Video Preview](https://example.com/video_preview_thumbnail.jpg)](https://example.com/video_link)
+
