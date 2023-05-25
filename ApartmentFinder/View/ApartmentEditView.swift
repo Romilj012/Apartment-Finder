@@ -2,7 +2,7 @@
 //  ApartmentEditView.swift
 //  ApartmentFinder
 //
-//  Created by Hasnain Ahmed Shaikh on 3/31/23.
+//  Created by Romil Jain on 3/31/23.
 //
 
 import SwiftUI
