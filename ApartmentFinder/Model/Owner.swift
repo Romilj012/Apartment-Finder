@@ -2,7 +2,7 @@
 //  Owner.swift
 //  ApartmentFinder
 //
-//  Created by Hasnain Ahmed Shaikh on 4/13/23.
+//  Created by Romil Jain on 4/13/23.
 //
 
 
