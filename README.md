@@ -68,6 +68,6 @@ SU Apartment Finder aims to revolutionize the apartment rental experience, makin
 
 Feel free to explore the repository and dive into the code to gain a deeper understanding of the application's implementation. Should you have any questions or feedback, please don't hesitate to reach out.
 
-[![Video Preview](https://example.com/video_preview_thumbnail.jpg)]([(https://github.com/Romilj012/Apartment-Finder-iOS-Firebase-Application/blob/main/Final_Project_Jain_Romil_video.mp4)])
+[![Video Preview](https://example.com/video_preview_thumbnail.jpg)](https://github.com/Romilj012/Apartment-Finder-iOS-Firebase-Application/blob/main/Final_Project_Jain_Romil_video.mp4)
 
 
